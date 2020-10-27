@@ -11,13 +11,13 @@ project_urls = {
 
 
 setuptools.setup(
-    name = "sphinx_bootstrap",
+    name = "bric_sphinx_bootstrap",
     version = "0.0.1",
     author = "Brian Carlsen",
     author_email = "carlsen.bri@gmail.com",
     description = "Sphinx roles for Bootstrap elelments.",
     long_description = long_description,
-    long_description_content_type = "text/rst",
+    long_description_content_type = "text/x-rst",
     keywords = [ 'sphinx', 'rst', 'restructured text', 'bootstrap' ],
     url = "",
     project_urls = project_urls,
